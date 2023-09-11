@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007fff&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0a8b3&height=100&section=header"/>
 
 
 <!--
@@ -51,9 +51,8 @@
 - 👋 Hi, I’m Abhipsa
 - 🏡 I live in Siliguri, West Bengal, IND
 - 👀 Interested in `Data Structure`, `OOPs`, `Web Development` and a bunch of other technologies.
-- 🌱 Currently learning `SQL`, `Android Development` and `Cloud Computing`
+- 🌱 Currently learning `Android Development`.
 - 👨🏻‍💻 Looking to collaborate on projects based on Pyhton and/or C++.
-- 📫 You can reach me via _[mail](mailto:abhipsa.152k@gmail.com)_
 
 <br>
 <br>
@@ -104,9 +103,9 @@
 ---
 <br>
 
-### 🤝🏼 _Feel free to drop by. Thanks._
+
 
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0a8b3&height=100&section=footer"/>
