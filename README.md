@@ -99,12 +99,8 @@
 
 <!-- [![Suvankar's github activity graph](https://activity-graph.herokuapp.com/graph?username=imSuvankar&theme=rogue&hide_border=true&line=D67D1E&point=FFFFFF)](https://github.com/imSuvankar) -->
  
----
-<br>
-
-
-
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 -->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0a8b3&height=100&section=footer"/>
