@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=120&section=header&text=Hey,%20I'm%20Abhipsa%20Adhikary!&fontSize=36&fontColor=00ffc8&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=120&section=header&text=Hey%20there!&fontSize=36&fontColor=00ffc8&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Zlbm40ZGV3b2I2aDNsZzdobWR5emtuZTNlNHVqcDQxOTM5emY3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="220" />
