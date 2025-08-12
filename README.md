@@ -1,99 +1,75 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0a8b3&height=100&section=header"/>
-
-
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE,+MY+NAME+is+Abhipsa+Adhikary;I'm+23+years+old;I'm+from+Brazil;I'm+a+computer+science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
--->
-
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
-</div>
-
-<br>
-
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abhipsa-adhikary/">
-    <img src="https://www.designinmentalhealth.com/wp-content/uploads/sites/57/2022/05/Linkedin-logo-png.png" alt="LinkedIn Badge" width="100"/>
-  </a>
-
-   <!--
-  <a href="https://www.codechef.com/users/suvankar_das">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="CodeChef Badge" width="100"/>
-  </a> -->
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=120&section=header&text=Hey,%20I'm%20Abhipsa%20Adhikary!&fontSize=36&fontColor=00ffc8&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rivieraviews&style=flat-square&color=blue" alt=""/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Zlbm40ZGV3b2I2aDNsZzdobWR5emtuZTNlNHVqcDQxOTM5emY3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="220" />
 </div>
-
-
-<!--
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{imSuvankar}/count.svg" />
-<br>
-</div>
--->
 
 ---
-<br>
 
+## 🌌 About Me
 
-> ## 🙋🏻‍♂️ About me:
-<!-- 
-<img align="right" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
--->
-<img align="right" src="https://www.puttiapps.com/wp-content/uploads/2021/05/business_analitics-2.gif" width="260"/>
+> Full-stack developer orbiting the **backend galaxy**, with gravity pulling toward **data & AI**.  
+> Merging **Python + Data Science + AI/ML** with production-grade web apps.  
 
+- 💳 **Building:** [Credible](#) – A full-stack Credit Card Management System  
+- 📊 **Exploring:** NumPy • Pandas • Matplotlib • scikit-learn  
+- 🧠 **Learning next:** AI/ML fundamentals → real-world integrations  
+- 🛠 **Core stack:** React • Node.js • Express • PostgreSQL • Prisma • TailwindCSS  
+- 🎯 2025 Goal: Deliver projects where **backend, data, and AI** converge
 
-- 👋 Hi, I’m Abhipsa
-- 🏡 I live in Siliguri, West Bengal, IND
-- 👀 Interested in `Data Structure`, `OOPs`, `Web Development` and a bunch of other technologies.
-- 🌱 Currently learning `Android Development`.
-- 👨🏻‍💻 Looking to collaborate on projects based on Pyhton and/or C++.
+---
 
-<br>
-<br>
+## ⚡ Featured Projects
 
-> ## 🛠️ Languages and Tools:
+| Project | Tech Stack | Description |
+| --- | --- | --- |
+| **Credible** | React, Tailwind, Node.js, Express, PostgreSQL, Prisma, JWT | Track credit cards, lounge credits, billing cycles. |
+| **Data Playground** | Python, NumPy, Pandas, Matplotlib | Sandbox for analytics experiments. |
+| **AI/ML Labs** | Python, scikit-learn | Learning ML by building small, focused models. |
+
+---
+
+## 🛠 Tech & Tools
+
 <div>
-    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" lt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />  
+  <!-- Data / AI -->
+  <img src="https://skillicons.dev/icons?i=python" />  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" title="scikit-learn" width="40" height="40"/> 
 </div>
 
-<br>
+---
+
+## 📊 Stats & Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats-4hvher9xe-rivieraviews-projects.vercel.app?user=rivieraviews&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivieraviews&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=ffffff)
+
+</div>
+
+> 💡 *Top languages reflect public repos, not skill level.*
 
 ---
-<br>
 
-> ## 🔥 My Stats :
+## 🌱 Learning Path
 
-<!--
-(https://github.com/anuraghazra/github-readme-stats)
-(https://git.io/streak-stats)
--->
+```mermaid
+graph TD
+    A[Data Fundamentals]:::node --> B[Python Libraries]:::node
+    B --> C[Data Cleaning & Visualization]:::node
+    C --> D[ML Algorithms]:::node
+    D --> E[AI in Production]:::node
+    E --> F[Data + Backend Projects]:::node
 
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rivieraviews&theme=dark&sideLabels=DDC67F&background=0F0F0F)](https://github.com/rivieraviews) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivieraviews&layout=compact&theme=vision-friendly-dark)](https://github.com/rivieraviews) |
-| ------------- | ------------- |
-<be>
+    classDef node fill:#0ff,stroke:#ff00ff,stroke-width:2px,color:#000,font-weight:bold;
+```
 
-> <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-
-<!--
-![Jokes Card](https://readme-jokes.vercel.app/api)
--->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0a8b3&height=100&section=footer"/>
+## 🎧 Vibe While Coding
+<div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c1ZDJ4a3o4dHcwOTN5Y3Y0aWduMGc1c3Fha3RsdnE5ODc3Z2c0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqF0lHbuGgU4gIwrPc/giphy.gif" width="300"/> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=100&section=footer"/> ```
