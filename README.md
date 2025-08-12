@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-4hvher9xe-rivieraviews-projects.vercel.app?user=rivieraviews&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-seven-xi-58.vercel.app?user=rivieraviews&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivieraviews&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=ffffff)
 
 </div>
